@@ -1,0 +1,8 @@
+streamlit
+fastapi
+openai
+PyMuPDF
+scikit-learn
+tiktoken
+sentence-transformers
+uvicorn
